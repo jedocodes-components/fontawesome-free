@@ -9,6 +9,8 @@ Types of changes
     Fixed for any bug fixes.
     Security in case of vulnerabilities.
 )
+## 7.1.0
+- Update to FontAwesome 7.1.0
 
 ## 7.0.0
 - Update to FontAwesome 7.0.0
